@@ -1,0 +1,78 @@
+#img-perfil{
+    width: 150px;
+}
+
+#img-stack{
+    width: 200px;
+}
+
+.bg-primary{
+    background-color: #0e3f63!important;
+}
+
+.nav-link{
+    color: #181c42!important;
+}
+
+.text-bg-primary {
+    background-color: #0e3f63!important;
+}
+
+.titulo-proyecto{
+    text-shadow: 2px 5px 30px #000000;
+}
+
+#proyecto-1{
+    background-image: url('Images/Modelo_ONU.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+#proyecto-2{
+    background-image: url('Images/Coloquio_economía.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+#proyecto-3{
+    background-image: url('Images/clon_google.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+#proyecto-4{
+    background-image: url('Images/Sitio_web.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+#proyecto-5{
+    background-image: url('Images/Servicio\ social.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+#proyecto-6{
+    background-image: url('Images/practicas.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.carousel-item{
+    height: 400px;
+}
+
+.carousel-indicators [data-bs-target] {
+    background-color: #0e3f63;
+    height: 5px;
+}
+
+.carousel-caption{
+    color:black;
+}
+
+.icono{
+    width: 50px;
+}
